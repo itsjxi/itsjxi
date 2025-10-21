@@ -32,7 +32,7 @@
 
 ## 🧩 Personal Projects (🌠 Built from Imagination)
 
-### 🛍️ **Huld App**
+### 🛍️ **Hulk App**
 > A modern **shopping experience** designed for performance and user delight.  
 **Highlights:** Responsive UI, optimized state management, and intuitive navigation.  
 **Tech:** React, Context API, Ant Design  
