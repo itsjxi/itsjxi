@@ -1,131 +1,34 @@
+<h1>Hi, I'm Jugal 👋</h1>
 
-<h1 align="center">✨ Hey there, I'm <span style="color:#7fffd4;">Jugal Rajput</span> 👨‍🚀</h1>
+**Frontend Engineer @ [WebEngage](https://webengage.com)** · 5+ years building B2B SaaS and data-heavy web apps · Gurgaon, India
 
-<p align="center">
-  <em>Frontend Engineer · UI Architect · Builder of Interactive Digital Universes</em>
-</p>
+I build product-facing systems end to end in React and TypeScript, from technical design to production. Recently that's been AI-powered creative tools, a WhatsApp template auto-approval pipeline, and a personalization engine that marketers use every day. I care about scalable frontend architecture, well-designed API layers and fast interfaces, and I work across Node.js and Python when the problem needs it.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=7FFFD4&center=true&vCenter=true&width=435&lines=Crafting+Clean+and+Scalable+UIs;Exploring+Creative+Frontiers;Turning+Ideas+into+Experiences" alt="Typing SVG" />
-</p>
+[Portfolio](https://jugalrajputportfolio.netlify.app) · [LinkedIn](https://linkedin.com/in/jugal-rajput-39bbbb144) · jugalrajput10@gmail.com
 
 ---
 
-## 🌌 About Me
+### What I've been building at work
+- **AI Image Copilot**: image generation and editing on a Konva canvas. Creative workflows got 2× faster.
+- **AI Email Content Agent**: chat → complete, on-brand email templates (BeeFree integration).
+- **WhatsApp Template Auto-Approval**: real-time validation, preview and tracking. 40% less manual review.
+- **Personalization engine** (Nunjucks): variable parsing and context-aware rendering. +30% engagement.
+- **Entity-based API layer** for a large React/Redux dashboard, plus a design-system migration.
 
-🚀 Frontend Engineer passionate about transforming complex ideas into smooth, delightful, and scalable web experiences.  
-🧠 I love blending **design thinking** with **clean architecture**, creating UIs that *feel alive*.  
-🛠️ I work across React, Redux, Ant Design, Highcharts, Konva, and creative integrations with AI APIs.  
-🪐 Currently expanding my skills into backend development to complete the full-stack orbit.  
+### Selected projects
 
----
+| Project | What's interesting about it | Stack |
+|---|---|---|
+| [**chillflix**](https://github.com/itsjxi/chillflix) | Server-state caching with hover prefetching, client-side recommendation scoring, fuzzy spotlight search | React · TanStack Query · Redux Toolkit |
+| [**vibe-music**](https://github.com/itsjxi/vibe-music) | Browser-only OAuth 2.0 PKCE, global player and queue | React · Redux Toolkit · Spotify API |
+| [**scratch-visual-editor**](https://github.com/itsjxi/scratch-visual-editor) | Data-driven block engine: add a block with config plus one handler | React · Webpack |
+| [**brand-guidelines-extractor**](https://github.com/itsjxi/brand-guidelines-extractor) | Pulls colors, fonts and logos from any site, with SSRF-safe fetching | Python · BeautifulSoup · SQLAlchemy |
+| [**vanilla-data-grid**](https://github.com/itsjxi/vanilla-data-grid) | Dependency-free grid: sort, search, paginate, CSV/JSON export | Vanilla JS |
+| [**react-redux-storefront**](https://github.com/itsjxi/react-redux-storefront) | Variant-aware pricing, cart and wishlist | React · Redux Toolkit |
 
-## 🛠️ Tech Stack
+Practice and patterns: [react-perf-patterns](https://github.com/itsjxi/react-perf-patterns) · [web-worker-demo](https://github.com/itsjxi/web-worker-demo) · [quickkart](https://github.com/itsjxi/quickkart) (vanilla MVC)
 
-| 💻 Frontend | 🎨 UI/UX | 📊 Data & Viz | ⚙️ State | 🧰 Tools |
-|-------------|-----------|---------------|-----------|-----------|
-| React | Ant Design | Highcharts | Redux / Context | Git & GitHub |
-| JavaScript (ES6+) | Figma | Konva | Lodash | Netlify / Vercel |
-| Responsive Design | Styled Components | Canvas API | Custom Hooks | VS Code |
-
----
-
-## 🧩 Personal Projects (🌠 Built from Imagination)
-
-### 🛍️ **Hulk App**
-> A modern **shopping experience** designed for performance and user delight.  
-**Highlights:** Responsive UI, optimized state management, and intuitive navigation.  
-**Tech:** React, Context API, Ant Design  
-
----
-
-### ⚡ **QuickKart**
-> Fast and fluid **e-commerce application** built for speed.  
-**Highlights:** Seamless checkout flow, product filtering, and responsive layout.  
-**Tech:** React, Redux, Styled Components  
-
----
-
-### 🎬 **ChillFlix**
-> Your next-gen **movie streaming platform UI**, inspired by Netflix.  
-**Highlights:** Smart carousel, adaptive grid system, and hover-driven interactions.  
-**Tech:** React, TMDB API, Styled Components  
-
----
-
-### 🎧 **Vibe Music**
-> A lightweight **music streaming interface** built with rhythm and design harmony.  
-**Highlights:** Playlist system, visual audio feedback, and immersive player animations.  
-**Tech:** React, Context API, HTML Audio, Custom Hooks  
-
----
-
-## 💼 Company Projects (🌍 WebEngage)
-
-### 🖼️ **AI Image Editor**
-> Advanced **AI-powered image generation and editing tool** integrating generative AI and real-time canvas editing.  
-**Highlights:**  
-- Prompt-based image generation  
-- Undo/redo for text, images, and masks  
-- Integrated cropping, overlays, and mask drawing  
-**Impact:** Unified image creation + editing into one seamless flow.  
-**Tech:** React, Konva, Redux, OpenAI API  
-
----
-
-### 🧠 **Control Room Dashboard**
-> Real-time campaign analytics interface built for production use.  
-**Highlights:**  
-- Draggable & sortable columns  
-- Highcharts visualization for campaign performance  
-- Expandable rows and modal-based insights  
-**Tech:** React, Highcharts, Ant Design  
-
----
-
-### 📈 **Chart Modal**
-> Dynamic Highcharts integration for performance monitoring.  
-**Highlights:**  
-- Combined bar + line charts  
-- Scrollable data views and responsive scaling  
-**Tech:** React, Highcharts  
-
----
-
-### 🚀 **Speed Boost System**
-> Context-driven campaign acceleration control inside Control Room.  
-**Highlights:**  
-- Context-managed states  
-- Optimized performance and modularization  
-**Impact:** Improved responsiveness and simplified internal operations.  
-
----
-
-## 📊 Activity Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjxi&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjxi&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://jugalrajputportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2300C4B3.svg?&style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jugal-rajput-39bbbb144/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jugalrajput10@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/itsjxi"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<h3 align="center">🌠 “Build with clarity, design with empathy, and deliver with purpose.” 🌠</h3>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/itsjxi/itsjxi/main/assets/space-divider.svg" width="80%" />
-</p>
-
+### Toolbox
+**Daily:** TypeScript · JavaScript · React · Redux Toolkit · TanStack Query · Next.js · Konva · Ant Design · Tailwind
+**Also:** Node.js · Python · FastAPI · Django/DRF · Redis/RQ · REST · GraphQL · OAuth 2.0
+**Tooling:** Vite · Webpack · Git · CI/CD · Web Workers · performance profiling
