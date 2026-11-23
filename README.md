@@ -19,7 +19,7 @@ I build product-facing systems end to end in React and TypeScript, from technica
 
 | Project | What's interesting about it | Stack |
 |---|---|---|
-| [**chillflix**](https://github.com/itsjxi/chillflix) | Server-state caching with hover prefetching, client-side recommendation scoring, fuzzy spotlight search | React · TanStack Query · Redux Toolkit |
+| [**chillflix**](https://github.com/itsjxi/chillflix) | Strict TypeScript; hover-prefetch cache hits, taste-weighted recommendations, fuzzy library search | React · TypeScript · TanStack Query · Redux Toolkit |
 | [**vibe-music**](https://github.com/itsjxi/vibe-music) | Browser-only OAuth 2.0 PKCE, global player and queue | React · Redux Toolkit · Spotify API |
 | [**scratch-visual-editor**](https://github.com/itsjxi/scratch-visual-editor) | Data-driven block engine: add a block with config plus one handler | React · Webpack |
 | [**brand-guidelines-extractor**](https://github.com/itsjxi/brand-guidelines-extractor) | Pulls colors, fonts and logos from any site, with SSRF-safe fetching | Python · BeautifulSoup · SQLAlchemy |
